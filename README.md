@@ -1,7 +1,8 @@
 # Zip Cracker
 A Python script that attempts to crack password-protected ZIP files using a wordlist.
 
-```               _                                  _                
+```
+                  _                                  _                
                  (_)                                | |               
             ____ _  _ __     ___  _ __  __ _   ___  | | __ ___  _ __  
             |_  /| || '_ \   / __|| '__|/ _` | / __|| |/ // _ \| '__| 
